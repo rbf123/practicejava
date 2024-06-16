@@ -28,3 +28,7 @@ public class MadLibs {
       System.out.println(story);
     }       
 }
+
+/* Sample result using these variable values: 
+This morning Sabrina woke up feeling cold. 'It is going to be a musical day!' Outside, a bunch of songs were protesting to keep playlist in stores. They began to run to the rhythm of the cello, which made all the marimbas very woozy. Concerned, Sabrina texted Rose, who flew Sabrina to America and dropped Sabrina in a puddle of frozen drum. Sabrina woke up in the year 120, in a world where guitars ruled the world.
+*/
