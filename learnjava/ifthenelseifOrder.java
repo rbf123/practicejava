@@ -42,3 +42,10 @@ public class Order {
     chemistrySet.ship();
   }
 }
+
+
+/* prints out the following:
+High value item!
+Shipping
+Shipping cost: 1.75
+Order not ready */
